@@ -1,11 +1,10 @@
 import random
-import os
 Genders=['Boys','Girls']
 Seats=['Window Side','Wall Side']
 date=input('Date: ')
 subject=input('Subject: ')
 timing=input('time: ')
-os.clear()
+clear()
 print(f'''
 Date: {date}
 Subject: {subject}
